@@ -17,12 +17,12 @@ max_iter=30;%以迭代次数来作为停止的条件
 
 #### 2.分割结果
 
-![image-20221220222728249](http://rmaux11hx.hn-bkt.clouddn.com/img/image-20221220222728249.png)
+![image-20221220222728249](https://github.com/THUliuxinlong/PicGo/raw/main/img/2022-12-21-201804.png)
 
-![image-20221220222740348](http://rmaux11hx.hn-bkt.clouddn.com/img/image-20221220222740348.png)
+![image-20221220222740348](https://github.com/THUliuxinlong/PicGo/raw/main/img/2022-12-21-201824.png)
 
-<img src="http://rmaux11hx.hn-bkt.clouddn.com/img/image-20221220222754611.png" alt="image-20221220222754611" style="zoom:80%;" />
+<img src="https://github.com/THUliuxinlong/PicGo/raw/main/img/2022-12-21-201806.png" alt="image-20221220222754611" style="zoom:80%;" />
 
-<img src="http://rmaux11hx.hn-bkt.clouddn.com/img/image-20221220222802937.png" alt="image-20221220222802937" style="zoom:80%;" />
+<img src="https://github.com/THUliuxinlong/PicGo/raw/main/img/2022-12-21-201808.png" alt="image-20221220222802937" style="zoom:80%;" />
 
 程序里面的参数初始化设置中，尤其是对均值Mu的设置很重要，设置的不好的话分割的效果就很常，也就是说参数估计的也很差，并且分割要求的类数越大（也就是需要估计的参数越多），对初始值的要求越高。  
